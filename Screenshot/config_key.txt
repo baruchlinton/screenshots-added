@@ -1,0 +1,6 @@
+# Configuration file for the screenshot script
+# Specify the two buttons that need to be pressed simultaneously to take a screenshot
+# Available buttons: A, B, Y, X, L, R, SELECT, START, MENU, FN, UP, DOWN, LEFT, RIGHT, R2, L2
+
+BUTTON1=R2
+BUTTON2=L2
