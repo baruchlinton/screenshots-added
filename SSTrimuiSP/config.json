@@ -1,0 +1,7 @@
+{
+"label":"Screenshot",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"take an screenshot for you console ;)"
+}
