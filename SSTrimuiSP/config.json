@@ -1,7 +1,7 @@
 {
-"label":"Screenshot",
+"label":"SSTrimuiSP",
 "icon":"icon.png",
 "iconsel":"icon.png",
 "launch":"launch.sh",
-"description":"take an screenshot for you console ;)"
+"description":"take an screenshot of your console ;)"
 }
